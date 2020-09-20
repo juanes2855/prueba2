@@ -50,7 +50,7 @@ public class Cine {
 	return posicion;
 	}
 	/*
-	 * METODO QUE RETORNA EL INDICE DE LA SALA QUE ESTE PROYECTANDO UNA PELÍCULA
+	 * METODO QUE RETORNA EL INDICE DE LA SALA QUE ESTE PROYECTANDO UNA PELï¿½CULA hola
 	 * 
 	 * */
 	public int buscarSalaXPelicula(Pelicula pelicula) {
@@ -93,7 +93,7 @@ public class Cine {
         return cantidad;
     }
 	/**
-	 * Metodo que me devuelve la sala con mayor ocupación
+	 * Metodo que me devuelve la sala con mayor ocupaciï¿½n
 	 * @return
 	 */
 	public Sala obtenerSalaMayorOcupacion() {
