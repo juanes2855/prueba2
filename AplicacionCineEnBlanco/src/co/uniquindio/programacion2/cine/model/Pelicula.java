@@ -18,6 +18,7 @@ public class Pelicula {
 	public String getNombre() {
 		return nombre;
 	}
+	//holaaaa
 	/**
 	 * @param nombre the nombre to set
 	 */
